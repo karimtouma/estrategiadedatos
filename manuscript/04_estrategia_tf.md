@@ -4,7 +4,7 @@ La estrategia táctico-fundacional corresponde a una heurística para afrontar p
 
 A grandes rasgos el esquema estratégico sigue la figura 4, en el que ambos equipos o roles funcionales se retroalimentan en función de los objetivos de negocio. Se distinguen funcionalmente tres grandes dominios, los cuales se clarifican antes de desglosar los roles o funciones que laboran en cada uno de los contextos.
 
-![Ilustración 4](../img/ilustracion_4.png)
+![Ilustración 4](resources/ilustracion_4.png)
 *Figura 4. Esquema táctico-fundacional.*
 
 * Ecosistema táctico: corresponde a la traducción inmediata entre valor de negocio y activos de datos, todas las construcciones están orientadas en la evaluación priorizada de hipótesis de datos que puedan tener un impacto positivo en un KPI concreto de la compañía. Por ejemplo, si se trabaja con metodologías ágiles, corresponde considerar una historia de usuario basada en beneficios concretos y no en activos de información, datos, reportes o modelos de aprendizaje automático. Esto quiere decir que no necesariamente se pesa la complejidad de la solución en esta etapa, sino más bien se itera progresivamente en aprender sobre el problema y encontrar las palancas concretas para resolverlo. En esta etapa existe mucha interacción entre el estado del arte para los problemas y la correcta traducción a la realidad empresa. Los elementos mínimos para generar valor desde el punto de vista táctico, son los datos y herramientas para manipularlos.

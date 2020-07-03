@@ -1,6 +1,6 @@
 ##  7.1. Diferenciar inversiones en tecnología
 
-![Ilustración 11](../img/ilustracion_11.png)
+![Ilustración 11](resources/ilustracion_11.png)
 *Figura 11. Principales herramientas dentro de las diferentes componentes tecnológicas y su priorización de desarrollo interno (diferenciación).*
 
 Las principales componentes de intensidad tecnológica se pueden definir en función a su orientación. Tenemos, por una parte, las tecnologías con orientación a cargas de trabajo, lo que puede incurrir en orquestación de procesamiento, acceso, integraciones, operación o ingreso de documentación. Existe otra componente de comunicación, que incluye la reportería, las herramientas de catálogo, entre otras cosas, y así también existen las componentes tecnológicas de soluciones, las cuales son la integración directa de un caso de uso aplicado y sirven para capturar la punta de valor.

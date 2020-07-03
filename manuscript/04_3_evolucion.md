@@ -2,7 +2,7 @@
 
 La evolución de esta estrategia considera tres grandes estados y sus correspondientes evoluciones: la etapa de descubrimiento, la etapa de asentamiento, y la etapa de consolidación. En los que tanto la configuración de los roles como los diferentes tipos de actitudes y aptitudes dentro de los equipos, varían diametralmente. En esta sección analizaremos las principales características de estos tres diferentes estados y sus consecuencias en el plan de largo plazo de las competencias de datos al interior de cualquier compañía.
 
-![Ilustración 6](../img/ilustracion_6.png)
+![Ilustración 6](resources/ilustracion_6.png)
 *Figura 6. Principales etapas de madurez y algunos hitos referenciales.*
 
 * Etapa de descubrimiento: para incrementar el impacto de los conquistadores, el equipo táctico se configura con un agregado de expertos de negocio y facilitadores técnicos del interior de la compañía, enriqueciendo con conocimiento de negocio y prioridades a los profesionales del área de datos. En esta etapa también es posible considerar ayuda de recursos externos de consultoría las capacidades avanzadas de modelamiento matemático o tecnología. 

@@ -17,7 +17,7 @@ Considerando a los datos en el centro, podríamos dividir, a grosso modo, las di
 La anterior es una taxonomía simple de los diferentes niveles de industrias, agrupados por rubro. Posteriormente, podríamos decir que la competitividad y el nivel de digitalización de cada empresa dentro del clúster también proveerá luces sobre cómo realizar la evaluación sobre la madurez de datos en la compañía. La lista exhaustiva de cada característica sería la siguiente:
 
 
-![Ilustración 1](../img/ilustracion_1.png)
+![Ilustración 1](resources/ilustracion_1.png)
 *Figura 1. Madurez tecnológica y Potencial de datos en la cadena de valor.*
 
 

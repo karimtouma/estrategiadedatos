@@ -4,7 +4,7 @@ Una de las principales problemáticas al encarar el enfoque táctico-fundacional
 
 Los roles de una fábrica de casos de uso consideran con una proporción mínima toda la cadena de valor del dato, es decir, considerando las piezas suficientes para acceder, movilizar, manipular, transformar y extraer el valor final de los datos con su consecuente aplicación al problema de negocio. Los roles se especifican de una manera conceptual y se dan luces de cómo se denomina ese concepto frecuentemente en el mercado, en donde existen cinco grandes grupos de roles en la cadena de valor:
 
-![Ilustración 5](../img/ilustracion_5.png)
+![Ilustración 5](resources/ilustracion_5.png)
 *Figura 5. Principales roles en la fábrica de casos de uso.*
 
 * Rol de minería de datos: el rol de minería de datos, accede a las fuentes de información, localiza las piezas de datos que tienen mayor valor dentro de las fuentes, las obtiene y moviliza a un lugar consolidado. Frecuentemente, este rol lo ejecutan analistas de sistemas, programadores, expertos en sistemas de información, arquitectos de datos, ingenieros de datos. Entre mayor sea la complejidad sistémica y/o empresarial, mayor será la profundidad de las habilidades necesarias para ejecutar este rol y por ende, al evolucionar en el caso de uso, evolucionan también las interacciones de las partes del equipo que ejecute este rol.
