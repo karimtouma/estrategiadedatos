@@ -6,6 +6,6 @@ La primera gran incómoda verdad del aprendizaje automático es que no existe so
 
 Claro está, existen muchas limitaciones estadísticas en la creación de este espacio de características, pero lo primordial, en un inicio y para evitar complejidad innecesaria a posteriori, es lograr representar, mediante dominios mutuamente excluyentes y completamente exhaustivos, el dominio de un problema, para luego lograr definir la información que se necesita para obtener la información deseada. Luego de definir la información deseada, se requiere representar esta información en los datos históricos. Esta debe ser gestionable e interpretable en el sentido de poder validar los hallazgos. En un principio, los modelos de aprendizaje automático deben privilegiar la explicabilidad, y lograr con esto, información robusta sobre los dominios que representan el problema. Esto ayudará a definir las líneas de investigación e incluso, a retroalimentar la gestión interna de la compañía. Luego de este primer paso de descubrimiento, la idea es optimizar el espacio de características en función de la importancia de cada dominio en un flujo de aprendizaje y priorización de dominios continuo.
 
-![Ilustración 13](resources/ilustracion_13.png)
+![](ilustracion_13.png)
 *Figura 13. Esquema del proceso de indagación analítica para profundizar dominios de análisis para los problemas de datos.*
 

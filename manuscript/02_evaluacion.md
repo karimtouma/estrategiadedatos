@@ -5,11 +5,8 @@ Como dijo Alfred Korzybski: “El mapa no es el territorio”. Esto aplicado al 
 Considerando a los datos en el centro, podríamos dividir, a grosso modo, las diferentes compañías en seis grandes grupos:
 
 * industriales (fábricas, minería, energía, petróleo, gas, etc.)
-
 * venta al por menor (retail de todo tipo)
-
 * tecnología, medios de comunicación y telecomunicaciones
-
 * instituciones financieras
 * cuidado de la salud
 * gobierno y fuerzas armadas.
@@ -17,7 +14,7 @@ Considerando a los datos en el centro, podríamos dividir, a grosso modo, las di
 La anterior es una taxonomía simple de los diferentes niveles de industrias, agrupados por rubro. Posteriormente, podríamos decir que la competitividad y el nivel de digitalización de cada empresa dentro del clúster también proveerá luces sobre cómo realizar la evaluación sobre la madurez de datos en la compañía. La lista exhaustiva de cada característica sería la siguiente:
 
 
-![Ilustración 1](resources/ilustracion_1.png)
+![](ilustracion_1.png)
 *Figura 1. Madurez tecnológica y Potencial de datos en la cadena de valor.*
 
 
@@ -36,7 +33,7 @@ La anterior es una taxonomía simple de los diferentes niveles de industrias, ag
 Las descripciones anteriores solo representan una vaga opinión superficial que puede o no servir de guía, simplemente trato de enumerar algunos conceptos generales sobre una guía de estructura lógica que describe los posibles problemas entre los niveles de digitalización y madurez en sistemas de información. En lo referente a industrias se asume que el lector tendrá una mayor comprensión sobre su determinado rubro. 
 Continuando con el tema, existen cuatro componentes estratégicos que describen el estado de madurez de cualquier empresa y su ecosistema de datos:
 
-![Ilustración 2](../img/ilustracion_2.png)
+![](ilustracion_2.png)
 *Figura 2. Componentes estratégicas y su interrelación tecnológica.*
 
 * Adquisición de datos: la capacidad de acceder, obtener, capturar o redireccionar los datos que generan los procesos de la compañía, ya sea desde sistemas de información digitalizados, manuales o sensorizados. Es importante mencionar que las capacidades de adquisición dependen de la complejidad de la información. Una compañía que procesa data volumétrica, de alta frecuencia de actualización o de una alta variedad puede requerir tecnologías avanzadas para acceder a la información o para liberar la información de sus sistemas.
