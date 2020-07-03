@@ -1,6 +1,6 @@
 ## 6.3. Agilidad en equipos de datos
 
-Una buena alternativa para la gestión de proyectos de datos es involucrar metodologías ágiles, tomando principalmente las máximas de empoderamiento en la toma de decisiones y la conformación de equipos interrelacionados, en los cuales las diferentes áreas enriquezcan, mediante el interrelacionamiento de conocimiento, la operación y creación de nuevo conocimiento-fin máximo de los equipos de datos. 
+Una buena alternativa para la gestión de proyectos de datos es involucrar metodologías ágiles, tomando principalmente las máximas de empoderamiento en la toma de decisiones y la conformación de equipos interrelacionados, en los cuales las diferentes áreas enriquezcan, mediante el interrelacionamiento de conocimiento, la operación y creación de nuevo conocimiento fin máximo de los equipos de datos. 
 
 ![](ilustracion_10.png)
 *Figura 10. Esquematización de los diferentes ciclos de trabajo, tanto en los equipos tácticos y cómo estos realimentan la estrategia fundacional.*

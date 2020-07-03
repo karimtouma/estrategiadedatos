@@ -4,6 +4,6 @@ Existe poca claridad en empresas tradicionales sobre el actual estado de madurez
 
 Aparte de la pertenencia organizacional, en un inicio es conveniente dar cierta autonomía para las contrataciones y los planes de carrera, privilegiando la flexibilidad para contratar a los primeros roles y dar espacio en la organización para mejorar el ambiente de trabajo y las condiciones que fortalezcan ambientes de innovación, creatividad y multidisciplinariedad.
 
-![]ilustracion_9.png)
+![](ilustracion_9.png)
 *Figura 9. Esquematización de Principales roles de datos y sus evoluciones orgánicas dentro de la organización*
 
