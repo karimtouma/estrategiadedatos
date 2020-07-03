@@ -8,11 +8,11 @@ Existe mucha discusión en el mundo de los datos sobre la utilidad real de los e
 
 Las claves para un equipo de gobierno de datos, alineadas con las estrategias globales, son, sin dudar, el sentido de valor futuro del conocimiento, lo que es muy difícil de estimar desde un primer momento, pero que, gracias a la sostenibilidad de los casos de uso, puede habilitar inversiones y gestiones para disminuir los errores o mejorar las fuentes de información y así, reducir la manualidad de los procesos. Una estructura organizacional de gobierno de datos tiene tres grandes pilares, los cuales son:
 
-* Arquitectura de datos: la arquitectura de datos se encarga de definir, desde un punto de vista técnico, tanto en diseño como en políticas, todas las integraciones y requerimientos de tiempo y forma, para el libre movimiento de los datos entre los sistemas. 
+* **Arquitectura de datos:** la arquitectura de datos se encarga de definir, desde un punto de vista técnico, tanto en diseño como en políticas, todas las integraciones y requerimientos de tiempo y forma, para el libre movimiento de los datos entre los sistemas. 
 
-* Aseguramiento de calidad: esta sección toma el control de los custodios de datos desde los sistemas, así como los analistas de calidad de datos, los cuales evalúan constantemente la sintaxis, la forma y la semántica de la información que fluye desde los sistemas.
+* **Aseguramiento de calidad:** esta sección toma el control de los custodios de datos desde los sistemas, así como los analistas de calidad de datos, los cuales evalúan constantemente la sintaxis, la forma y la semántica de la información que fluye desde los sistemas.
 
-* Gestión de Metadatos[^10] y Conocimiento: el área de metadatos y conocimiento es la memoria y el área de comunicaciones corporativas del área de gobierno. Se encarga de comunicar, transparentar y recabar la información necesaria para servir de base para construir nuevo conocimiento y aprender de la información contenida en los repositorios de datos. Sus principales activos son los diccionarios de datos, los catálogos y los servicios de linaje de datos; los cuales muestran todas las componentes y trazabilidades de cada criterio en construcción de datos más complejos.
+* **Gestión de Metadatos[^10]** y Conocimiento: el área de metadatos y conocimiento es la memoria y el área de comunicaciones corporativas del área de gobierno. Se encarga de comunicar, transparentar y recabar la información necesaria para servir de base para construir nuevo conocimiento y aprender de la información contenida en los repositorios de datos. Sus principales activos son los diccionarios de datos, los catálogos y los servicios de linaje de datos; los cuales muestran todas las componentes y trazabilidades de cada criterio en construcción de datos más complejos.
 
 
 [^10]: Corresponden a la información sobre la estructura y composición de los datos.

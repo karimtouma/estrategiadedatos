@@ -12,4 +12,4 @@ La primera etapa de cualquier proyecto de datos tiene que ver con reconvertir, c
 ![](ilustracion_8.png)
 *Figura 8. Esquematización de capacidades y establecimiento de requerimientos por cargo y evaluación del equipo.*
 
-Es importante mencionar que los sistemas de evaluación deben considerar a lo menos dimensiones blandas y técnicas. En el estado de madurez actual de la tecnología es importante diseñar ambientes colaborativos
+Es importante mencionar que los sistemas de evaluación deben considerar a lo menos dimensiones blandas y técnicas. En el estado de madurez actual de la tecnología es importante diseñar ambientes colaborativos, dado que la resolución de este tipo de problemas involucra diferentes puntos de vista.
