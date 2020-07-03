@@ -10,4 +10,4 @@ Las siguientes ideas se encuentran distribuidas en nueve capítulos, los cuales 
 
 Los temas se abordarán de forma pragmática, considerando las expresiones y opiniones como una guía general, asimismo, se ahondará en los temas independientes transversales a la estrategia de datos, muchas veces privilegiando mantenerse fuera del contexto de la empresa, dado que se asume que el lector poseerá muchísima más experiencia que el escritor en su determinado dominio de negocio.
 
-[^1]: This is the first footnote.
+[^1]: Técnicas para resolver problemas de índole complejo, utilizando fuentes de datos y sistemas de computación. Ejemplo: reconocer rostros en una fotografía.
