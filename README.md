@@ -16,9 +16,11 @@ El libro puede ser descargado por completo como PDF desde este repositorio:
 
 Para una mejor experiencia de lectura, tambien se encuentra disponible en: [Leanpub](https://leanpub.com/estrategiadedatos)
 
-## Tabla de contenidos
+## Contribuir
 
-Estructura del libro, completamente opensource.
+Todo este contenido se libera completamente opensource, tanto las imágenes como el contenido, si quieres colaborar puedes contribuir mediante requests a este código fuente.
+
+## Tabla de contenidos
 
 ISBN 978-956-401-937-6
 
