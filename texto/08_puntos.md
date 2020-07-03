@@ -1,0 +1,3 @@
+# 8. Principales puntos de dolor
+
+Muchas veces, cuando las empresas se mueven, el seguimiento del plan se vuelve una máxima, pero, tarde o temprano, existirán problemas que no pueden planificarse como tales. En esta sección, enumeramos los más comunes, simplemente para agregarlos al plan desde un principio, dado que en base a la experiencia estos temas son los menos considerados y los más complejos de solucionar. Claramente, la complejidad para solucionar estos problemas tiene que ver con el establecimiento de capacidades simples, que no son difíciles de construir, pero que, muchas veces, requieren de una disciplina no presente en muchas organizaciones, principalmente en organizaciones con excesiva presión competitiva o donde el éxito oculte las propias ineficiencias.
