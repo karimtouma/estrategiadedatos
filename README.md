@@ -8,7 +8,16 @@ Copyright © 2020 [Karim Touma](http://karim.touma.io).
 
 [![Book cover](cover.png)](https://leanpub.com/estrategiadedatos)
 
+## Publicacion
+
+El libro puede ser descargado por completo como PDF desde este repositorio:  
+[estrategia_de_datos_preview.pdf](estrategiadedatos-preview.pdf)
+
+Para una mejor experiencia de lectura, tambien se encuentra disponible en: [Leanpub](https://leanpub.com/estrategiadedatos)
+
 ## Tabla de contenidos
+
+Estructura del libro, completamente opensource.
 
 ISBN 978-956-401-937-6
 
